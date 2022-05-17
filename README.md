@@ -36,8 +36,7 @@ The amount to pay ASTRID is: 85 USD
 * Run main.py file with python
 
 **Testing**
-* Run pip install -r requirements.txt for requirements
-* For test run "pytest" in the container folder
+* run _test.py
 
 **Explanation**
 The program takes one txt file with the structure previusly given and then output the employee name and paid that will be given for him.
